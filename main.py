@@ -1,3 +1,5 @@
+# APP LINK: https://price-pred.streamlit.app/
+
 import streamlit as st
 import pandas as pd
 import numpy as np
